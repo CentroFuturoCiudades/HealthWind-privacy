@@ -6,22 +6,39 @@
 
 HealthWind es una aplicación informativa sobre calidad del aire desarrollada por el Tecnológico de Monterrey. Usamos tu ubicación únicamente para mostrarte información del sensor más cercano a ti. No creamos cuentas de usuario ni almacenamos datos personales identificables.
 
+## Responsable del tratamiento de datos
+
+El responsable del tratamiento de tus datos personales es:
+
+**Instituto Tecnológico y de Estudios Superiores de Monterrey**
+Av. Eugenio Garza Sada 2501 Sur, Tecnológico, Distrito Tec, 64700 Monterrey, Nuevo León, México.
+
 ## Información que recolectamos
 
 ### Ubicación
 
 HealthWind solicita acceso a tu ubicación con precisión de cientos de metros (*coarse location*) para:
 
-- Encontrar el sensor de calidad del aire más cercano a ti
-- Mostrarte información relevante de tu zona en el mapa
+- Encontrar el sensor de calidad del aire más cercano a ti.
+- Mostrarte información relevante de tu zona en el mapa.
 
 ### Cómo procesamos tu ubicación
 
 - Tu ubicación (latitud y longitud) se envía a nuestro servidor únicamente para calcular qué sensor está más cerca.
-- El servidor está hospedado en **Microsoft Azure (West US 2)**. Microsoft actúa como procesador de datos bajo los términos del [Data Protection Addendum de Microsoft](https://www.microsoft.com/licensing/docs/view/Microsoft-Products-and-Services-Data-Protection-Addendum-DPA).
+- El servidor está hospedado en **Microsoft Azure (West US 2, Estados Unidos)**. Microsoft actúa como procesador de datos bajo los términos del [Data Protection Addendum de Microsoft](https://www.microsoft.com/licensing/docs/view/Microsoft-Products-and-Services-Data-Protection-Addendum-DPA).
 - **NO** almacenamos un historial de tus ubicaciones.
 - **NO** asociamos tu ubicación con ningún identificador personal.
 - La ubicación se usa solo en el momento de la consulta y se descarta inmediatamente después.
+
+### Transferencia internacional de datos
+
+Al usar HealthWind, aceptas que tu ubicación se transfiera temporalmente a servidores ubicados en **Estados Unidos** (Microsoft Azure, región West US 2) para su procesamiento. Esta transferencia se realiza:
+
+- Únicamente para calcular el sensor más cercano a tu ubicación.
+- Sin almacenamiento posterior de la ubicación transmitida.
+- Bajo las garantías contractuales de Microsoft como procesador de datos.
+
+Si no deseas que tu ubicación cruce fronteras internacionales, puedes revocar el permiso de ubicación en cualquier momento (ver sección "Tus derechos").
 
 ### Logs técnicos del servidor
 
@@ -36,6 +53,10 @@ Para operación y seguridad, nuestro servidor genera logs con dirección IP y ma
 - No hacemos seguimiento de tu actividad entre sesiones.
 - No compartimos datos con terceros para publicidad.
 - No mostramos publicidad en la app.
+
+## SDKs de terceros
+
+HealthWind **no integra ningún SDK de analítica, publicidad o tracking**. Las únicas bibliotecas de terceros que utiliza la app son componentes de renderizado visual (imágenes y Markdown) que no envían datos a servidores externos.
 
 ## App Tracking Transparency (iOS)
 
@@ -88,10 +109,10 @@ Si actualizamos esta política, publicaremos los cambios en esta página con la 
 
 Para preguntas sobre privacidad, ejercer tus derechos ARCO o cualquier tema relacionado con esta política, puedes contactar a:
 
-- **Lizzie Montserrat Cañamar Carrillo** — [lizziecc@tec.mx](mailto:lizziecc@tec.mx)
+- **Roberto Ponce López** — [rpl@tec.mx](mailto:rpl@tec.mx) *(responsable principal)*
 - **Silke Alida Enkerlin Madero** — [silke@tec.mx](mailto:silke@tec.mx)
-- **Roberto Ponce López** — [rpl@tec.mx](mailto:rpl@tec.mx)
+- **Lizzie Montserrat Cañamar Carrillo** — [lizziecc@tec.mx](mailto:lizziecc@tec.mx)
 
 ---
 
-*HealthWind es un proyecto desarrollado por el Tecnológico de Monterrey*
+*HealthWind es un proyecto desarrollado por el Tecnológico de Monterrey.*
