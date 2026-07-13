@@ -67,7 +67,9 @@ HealthWind **no rastrea tu actividad** a través de aplicaciones o sitios web de
 
 ## Datos de menores de edad
 
-HealthWind no está dirigida a menores de 13 años y no recolecta intencionalmente información de menores. Si te enteras de que un menor nos ha proporcionado información, por favor contáctanos para eliminarla (aunque, como se detalla arriba, no almacenamos datos personales identificables).
+HealthWind no está dirigida a menores de edad y no recolecta intencionalmente información de niñas o niños. La app no solicita datos personales ni permite crear cuentas, por lo que no pide información que pueda identificar a un menor.
+
+Si eres madre, padre o tutor y crees que un menor a tu cargo nos ha proporcionado datos personales, contáctanos en las direcciones de la sección *"Contacto"* y atenderemos tu solicitud.
 
 ## Permisos de la app
 
