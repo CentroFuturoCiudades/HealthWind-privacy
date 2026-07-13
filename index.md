@@ -17,10 +17,12 @@ Av. Eugenio Garza Sada 2501 Sur, Tecnológico, Distrito Tec, 64700 Monterrey, Nu
 
 ### Ubicación
 
-HealthWind solicita acceso a tu ubicación con precisión de cientos de metros (*coarse location*) para:
+HealthWind solicita acceso a tu ubicación con precisión aproximada de 100 metros para:
 
 - Encontrar el sensor de calidad del aire más cercano a ti.
 - Mostrarte información relevante de tu zona en el mapa.
+
+Puedes limitar esta precisión en cualquier momento activando la opción **"Ubicación precisa: Apagado"** en *Configuración > HealthWind > Ubicación*. En ese caso, iOS entregará a la app una ubicación aproximada (~3 km) y HealthWind seguirá funcionando con menor exactitud al calcular el sensor más cercano.
 
 ### Cómo procesamos tu ubicación
 
